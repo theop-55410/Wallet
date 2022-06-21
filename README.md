@@ -1,0 +1,2 @@
+# Wallet
+Simple Cryptocurrency Wallet
